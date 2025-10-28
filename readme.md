@@ -1,23 +1,21 @@
 <samp>
-Exploring Computer Science concepts
+exploring computer science concepts
 <br/>
 <br/>
-Languages/technologies
+tech stack
 </samp>
 <br/>
 <br/>
 
 ```
-- HTML/CSS
-- JS
-- React.js/Next.js
-- Express.js
+- html/css/js
+- mern stack + next.js
 
 ------
 
-- Python
-- C
-- Linux
+- python
+- c
+- golang
 ```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metastag&label=Profile%20views&color=0e75b6&style=flat" alt="metastag" /> </p>
